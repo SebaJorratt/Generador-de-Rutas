@@ -4,7 +4,6 @@
             <b-navbar toggleable="md" type="white" variant="light">
                 <b-container>
                     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-                    <img src="../assets/logoborde.png" alt="" width="100px"> 
                     <b-container>
                         <b-collapse id="nav-collapse" is-nav>
                             <b-nav pills>&nbsp; &nbsp; &nbsp; &nbsp; 
